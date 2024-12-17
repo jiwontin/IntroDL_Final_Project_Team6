@@ -3,7 +3,7 @@
 ## 심층신경망개론_Team 6
 - Task: Oxford102flowers 데이터에 대한 Fine-Grained Classification 모델 성능 향상
 - Baseline Model: ConvNeXt
-- 폴더 설명<br/>
+- Folder<br/>
 **Dataset**: 
 102segmentations.tgz: 라벨링 되어 있는 원본 이미지의 압축 파일
 setid.mat: train, valid, test 인덱스 정보
