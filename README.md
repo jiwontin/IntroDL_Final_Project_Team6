@@ -11,9 +11,12 @@ imagelabels.mat: 이미지의 라벨 정보<br/>
 **Model**
 각자의 원본 모델 코드<br/>
 **Segmentation Code**
-Weighted CE의 가중치에 사용되는 Segmentation 사진 추출코드<br/>
+Weighted CE의 가중치에 사용되는 Segmentation 사진 추출 코드<br/>
 **Experiments**
-개선된 모델 코드와 기능 실험 코드
-
-
-- 성균관대학교 김남준, 김서연, 김종민, 김지원, 홍승범
+개선된 모델 코드와 기능별 실험 코드
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+성균관대학교 김남준, 김서연, 김종민, 김지원, 홍승범
